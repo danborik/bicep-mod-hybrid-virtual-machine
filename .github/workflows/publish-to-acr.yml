@@ -10,7 +10,7 @@ permissions:
 
 env:
     ACR_NAME: acrcitinfrbicepmodules.azurecr.io
-    MODULE_NAME: <module-name>  # Replace with the actual module name
+    MODULE_NAME: hybrid-virtual-machine
 
 jobs:
     publish:
